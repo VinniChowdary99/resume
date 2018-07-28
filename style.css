@@ -1,16 +1,23 @@
 .main{
 	width:100%;
-	background-color:#c45e45;
-	display:flex;
+	background-color: #ddd;
+	display: flex;
+	justify-content: center;
+	text-align: center;
 }
 .left{
 	width:70%;
-	border:2px solid blue;
+	border:3px solid blue;
 }
 .right{
 	width:30%;
-	border:2px solid pink;
+	border:3px solid pink;
 }
 .img{
 	width:5px;
+}
+h1,
+h2,
+h3{
+	font-size: 33px;
 }
