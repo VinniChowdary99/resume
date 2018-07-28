@@ -21,3 +21,34 @@ h2,
 h3{
 	font-size: 33px;
 }
+.sset table,tr,td{
+	border: 2px solid pink;
+}
+@media only screen and (min-width: 480px) and (max-width: 760px){
+
+	.main{
+	width:100%;
+	background-color: #ddd;
+	margin: 1px;
+	border: 2px solid red;
+	flex-direction: column-reverse;
+}
+.left{
+	width:35%;
+	border:2px solid blue;
+	box-shadow: 3px 3px 3px blue;
+	margin:1%;
+	padding:1%;
+	background-color: #FFFACD;
+}
+.right{
+	width:65%;
+	border:2px solid pink;
+	box-shadow: 3px 3px 3px blue;
+	background-color: #FFFACD;
+	margin:1%;
+	padding:1%;
+	font-size: 35px;
+	text-align: left;
+}
+}
