@@ -1,0 +1,44 @@
+{
+	"details":{
+		"name":"Vineetha Tadapaneni",
+		"image":"person-female.png",
+		"phone":"1111111111",
+		"email":"tvineetha99@gmail.com"
+
+	},
+	"education":[
+		{
+			"college":"MIC college",
+			"course":"B.Tech",
+			"branch":"CSE",
+			"percentage":"80%"
+
+		
+},
+		{
+			"college":"narayana college",
+			"course":"intermediate(mpc)",
+			"percentage":"96%"
+
+		}
+
+],
+	"skills":[
+		{
+			"title":"programming languages",
+			"output":[
+			
+					"C","c++","java","python"
+				]
+		},
+		{
+		"title":"operating systems",
+		"output":[
+		"windows","linux","mac"
+	]	
+		}
+	],
+	"career":{
+		"co":"to associate with the organisation and utilise my technical skills to the growth of our company.I am here to develop my knowledge and it is used for our organisation"
+	}
+}
